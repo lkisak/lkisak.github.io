@@ -48,6 +48,8 @@ main {
 	
 	font-size: 2em;
 	margin-bottom: 2em;
+	text-align: center;
+	color: #FFFFFF;
 }
 
 main p {
@@ -62,6 +64,7 @@ footer {
 	color: #FFFFFF;
 	font-size: .7em;
 	margin-top: 3em;
+	text-align: center;
 }
 
 figure img {
